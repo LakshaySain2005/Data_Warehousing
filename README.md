@@ -2,7 +2,7 @@
 [![Maintainability - A](https://img.shields.io/badge/Maintainability-A-2ea44f)](https://)
 
 # Data Warehouse With Amazon Redshift and Visualizing Redshift data using Power BI
-
+Check the article [Data Warehouse With Amazon Redshift](https://medium.com/@essraaahmed/data-warehouse-with-amazon-redshift-and-visualizing-redshift-data-using-power-bi-9c0cf23060a3)
 ## Introduction
 A music streaming startup, Sparkify, has grown their user base and song database and want to move their processes and data onto the cloud. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
@@ -110,5 +110,9 @@ Connect Power BI to Redshift to create dashboard:
 5. Build your Dashboard. 
 
 ![dashboard](Images/dashboard1.png)
+
+
+## Author
+Esraa Ahmed | <a href="https://linkedin.com/in/esraa-ahmed-ibrahim2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esraa-ahmed-ibrahim2" height="15" width="15" /></a>
 
 Created on 15/08/2022
